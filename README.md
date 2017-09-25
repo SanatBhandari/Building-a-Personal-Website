@@ -9,7 +9,7 @@ I use Dash, an online tool for building web-applications as projects, to build a
     text-align: center;
     background-size: cover;
     background-position: center;
-    background: white;
+    background: url<https://imgur.com/xBjEMjQ>;
     font-family: helvetica;
     }
     
@@ -30,6 +30,7 @@ I use Dash, an online tool for building web-applications as projects, to build a
   </style>
   </head>
   <body>
+  <img src="https://imgur.com/yRrNRk3">
   <p>Hi! I am Sanat, a student at University of Nebraska, Lincoln.</p>
   <input type="email" placeholder="Your email">
   <input type="submit">
